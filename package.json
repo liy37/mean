@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/liy37/mean/issues"
   },
-  "homepage": "https://github.com/liy37/mean#readme"
+  "homepage": "https://github.com/liy37/mean#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "webpack": "^4.20.2",
+    "webpack-dev-server": "^3.1.9"
+  }
 }
